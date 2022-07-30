@@ -1,0 +1,16 @@
+#cashier{
+	height: 400px;
+    border-style: double;
+border-color: red;
+border-width: 10px;
+
+  }
+body{
+    background-color: aqua;
+}
+#cashier2 {
+border-style: double;
+border-color: red;
+border-width: 10px;
+
+}
